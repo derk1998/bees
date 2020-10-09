@@ -3,5 +3,5 @@ languageCode = "en-us"
 theme = "terrassa"
 title = "Minor Smart Industry: Bees project"
 [params.posts]
-dateFormat = "Monday, 01 Jan, 2006"
+dateFormat = "mm-dd-yyyy"
 showDate = true
