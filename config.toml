@@ -4,4 +4,4 @@ theme = "terrassa"
 title = "Minor Smart Industry: Bees project"
 [params.posts]
 dateFormat = "Mon, Jan, 2006"
-showDate = true
+showDate = false
