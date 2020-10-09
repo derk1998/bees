@@ -1,7 +1,7 @@
 ---
 title: First business models
 description: ''
-date: 2020-10-07T22:00:00+00:00
+date: 2020-10-07T22:00:00.000+00:00
 publishDate: 2020-10-08
 author: Derk Wiegerinck
 images: []
@@ -11,7 +11,7 @@ Last week, we created the first version of the business model canvas for InsectS
 
 The first version of the business model canvas (in Dutch):
 
-![Business Model Canvas InsectSense version 1](/images/bmc_v1.png)
+![Business Model Canvas v1](/images/bmc_v1.png)
 
 We realized that we missed a lot of information and decided to send an e-mail to Aria (founder of InsectSense). The following questions were asked:
 
@@ -27,4 +27,4 @@ We got the following answers, but haven't made a new version of the business mod
 
 We later converted the business model canvas to an operating model. See the following picture for this model (also in Dutch):
 
-![Operating model InsectSense version 1](/images/operating_model.jpg)
+![Operating model InsectSense v1](/images/operating_model.jpg)
