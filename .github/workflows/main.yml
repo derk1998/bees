@@ -29,5 +29,5 @@ jobs:
           #   keep_files: true
           user_name: derk1998
           user_email: dam.wiegerinck@student.han.nl
-          publish_branch: master
+          publish_branch: gh-pages
         #   cname: example.com
