@@ -25,7 +25,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: derk1998/derk1998.github.io
           publish_dir: ./public
           #   keep_files: true
           user_name: derk1998
