@@ -1,8 +1,7 @@
 baseURL = "https://derk1998.github.io/bees/"
 languageCode = "en-us"
-title = "Minor Smart Industry: Bees project"
 theme = "terrassa"
-
+title = "Minor Smart Industry: Bees project"
 [params.posts]
-    showDate = true
-    dateFormat = "Monday, Jan, 2006"
+dateFormat = "Monday, 14 Jan, 2006"
+showDate = true
