@@ -1,4 +1,4 @@
-baseURL = "/bees"
+baseURL = "/bees/"
 languageCode = "en-us"
 title = "Minor Smart Industry: Bees project"
 theme = "terrassa"
