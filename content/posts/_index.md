@@ -1,6 +1,6 @@
 ---
 title: Logbook
-description: Here we store our logs
+description: ''
 images: []
 weight: "2"
 menu:
