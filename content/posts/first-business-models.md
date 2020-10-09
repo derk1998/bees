@@ -1,13 +1,12 @@
 ---
-title: "First business models"
-description: ""
-date: 2020-10-08
+title: First business models
+description: ''
+date: 2020-10-07T22:00:00+00:00
 publishDate: 2020-10-08
-author: "Derk Wiegerinck"
+author: Derk Wiegerinck
 images: []
-draft: false
----
 
+---
 Last week, we created the first version of the business model canvas for InsectSense. We retrieved the information from the [website](https://insectsense.com) of InsectSense. Since the company is in a starting up phase, there is limited information available.
 
 The first version of the business model canvas (in Dutch):
